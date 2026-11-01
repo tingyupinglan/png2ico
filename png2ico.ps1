@@ -1,6 +1,6 @@
 ﻿<#
     png2ico.ps1 - convert a PNG to a multi-size ICO with rounded, fully
-                  transparent corners.
+                  transparent corners .
 
     Usage:
       powershell -ExecutionPolicy Bypass -File .\png2ico.ps1 .\app_ico.png
